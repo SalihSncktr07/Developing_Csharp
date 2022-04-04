@@ -20,7 +20,14 @@ namespace Kamp_4.Gün
             Product product2 = new Product { Id = 2, CategoryId = 5, UnitsInStock = 5, ProductName = "Kalem", UnitPrice = 35};
 
             ProductManager productManager = new ProductManager();
+            productManager.Add(product1);
+            Console.WriteLine(product1.ProductName); // Kamera
 
+            int sayi = 100;
+            productManager.Test(sayi);
+            Console.WriteLine(sayi); //100
+            
+            Console.ReadLine();
         }
     }
 }

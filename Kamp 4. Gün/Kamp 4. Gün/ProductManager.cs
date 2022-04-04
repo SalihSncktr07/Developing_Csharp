@@ -8,9 +8,14 @@ namespace Kamp_4.Gün
 {
     internal class ProductManager
     {
-        public void Add()
+        public void Add(Product product)
         {
+            product.ProductName = "Kamera";
+        }
 
+        public void Test(int sayi)
+        {
+            sayi = 99;
         }
     }
 }
