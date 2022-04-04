@@ -1,0 +1,8 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\bin\Debug\Kamp_3.Gün.exe.config
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\bin\Debug\Kamp_3.Gün.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\bin\Debug\Kamp_3.Gün.pdb
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\obj\Debug\Kamp 3. Gün.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\obj\Debug\Kamp 3. Gün.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\obj\Debug\Kamp 3. Gün.csproj.CoreCompileInputs.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\obj\Debug\Kamp_3.Gün.exe
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 3. Gün\Kamp 3. Gün\obj\Debug\Kamp_3.Gün.pdb
