@@ -10,12 +10,19 @@ namespace Kamp_4.Gün
     {
         public void Add(Product product)
         {
-            product.ProductName = "Kamera";
+            //product.ProductName = "Kamera";
+            Console.WriteLine(product.ProductName + "Eklendi.");
+
         }
 
-        public void Test(int sayi)
+        //public void Test(int sayi)
+        //{
+        //    sayi = 99;
+        //}
+
+        public void Update(Product product)
         {
-            sayi = 99;
+            Console.WriteLine(product.ProductName + "Güncellendi.");
         }
     }
 }

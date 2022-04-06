@@ -26,6 +26,9 @@ namespace Kamp_4.Gün
             int sayi = 100;
             productManager.Test(sayi);
             Console.WriteLine(sayi); //100
+
+            //int, double, bool... DEĞER TİP
+            //diziler, class, abstract class, interface... REFERANS TİP
             
             Console.ReadLine();
         }
