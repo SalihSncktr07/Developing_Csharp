@@ -12,8 +12,15 @@ namespace GenericsIntro
         {
             MyList<string> isimler = new MyList<string>();
             isimler.Add("PIRNAZ");
-            
-            
+            Console.WriteLine(isimler.Length);
+
+            isimler.Add("pırnaz");
+            Console.WriteLine(isimler.Length);
+
+            foreach (var item in isimler.Items)
+            {
+                Console.WriteLine(isim);
+            }
 
             Console.ReadLine();
         }

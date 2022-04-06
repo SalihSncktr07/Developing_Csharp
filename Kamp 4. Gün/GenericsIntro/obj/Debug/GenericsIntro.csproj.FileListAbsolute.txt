@@ -1,0 +1,3 @@
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 4. Gün\GenericsIntro\obj\Debug\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 4. Gün\GenericsIntro\obj\Debug\GenericsIntro.csproj.SuggestedBindingRedirects.cache
+C:\Users\salih\OneDrive\Masaüstü\Kodlama.io-Engin D\Kamp 4. Gün\GenericsIntro\obj\Debug\GenericsIntro.csproj.CoreCompileInputs.cache
