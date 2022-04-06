@@ -23,12 +23,18 @@ namespace Kamp_4.Gün
             productManager.Add(product1);
             Console.WriteLine(product1.ProductName); // Kamera
 
-            int sayi = 100;
-            productManager.Test(sayi);
-            Console.WriteLine(sayi); //100
+            //int sayi = 100;
+            //productManager.Test(sayi);
+            //Console.WriteLine(sayi); //100
 
             //int, double, bool... DEĞER TİP
             //diziler, class, abstract class, interface... REFERANS TİP
+
+
+            //productManager.Topla2(3, 6);
+
+            //int toplamaSonuc = productManager.Topla(5, 7);
+            //Console.WriteLine(toplamaSonuc);
             
             Console.ReadLine();
         }
