@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamp 5. Gün", "Kamp 5. Gün\Kamp 5. Gün.csproj", "{A2275430-8FCC-446A-A24C-8FAFBC4EE821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{8A34F2D9-D0C1-4E97-B9F4-C27AE8B83F32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2275430-8FCC-446A-A24C-8FAFBC4EE821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2275430-8FCC-446A-A24C-8FAFBC4EE821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2275430-8FCC-446A-A24C-8FAFBC4EE821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2275430-8FCC-446A-A24C-8FAFBC4EE821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A34F2D9-D0C1-4E97-B9F4-C27AE8B83F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A34F2D9-D0C1-4E97-B9F4-C27AE8B83F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A34F2D9-D0C1-4E97-B9F4-C27AE8B83F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A34F2D9-D0C1-4E97-B9F4-C27AE8B83F32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D376FA2C-1A3E-4D67-940B-50E799F3CD9C}
+	EndGlobalSection
+EndGlobal
